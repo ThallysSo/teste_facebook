@@ -8,3 +8,5 @@ https://docs.gauge.org/getting_started/installing-gauge.html?os=windows&language
 ###Taiko
 
 https://taiko.dev/
+
+obs: Para executar o projeto digite no terminal dentro da pasta npm test ou vá até especificações.spec e click em Run Spec.
