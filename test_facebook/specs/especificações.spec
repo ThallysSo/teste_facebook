@@ -7,7 +7,7 @@
 ## E ele acessa página de login
 * Clique no link do Facebook
 
-## E Preenche os dados de login corretamente
+## E Preenche os dados de login corretamenteq
 * Selecione o campo de Email e digite o Email
 * Selecione o campo da senha e digite a senha
 
